@@ -1,0 +1,6 @@
+*.o
+gendata
+gmon.out
+myknn
+.vscode/
+*.txt
